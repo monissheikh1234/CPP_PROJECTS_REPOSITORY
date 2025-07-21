@@ -72,7 +72,10 @@ g++ project_name.cpp -o project.exe
 ./project.exe  # On Windows
 ```
 ## 🌟 About Me
-👨‍💻 Monis Sheikh
-🎓 B.Tech AIML | RCOEM, Nagpur
-🔗 GitHub: monissheikh1234
-💼 LinkedIn: linkedin.com/in/monissheikh1234
+
+**👨‍💻 Monis Sheikh**  
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur  
+🔗 **GitHub:** [monissheikh1234](https://github.com/monissheikh1234)  
+💼 **LinkedIn:** [linkedin.com/in/monissheikh1234](https://linkedin.com/in/monissheikh1234)
+
