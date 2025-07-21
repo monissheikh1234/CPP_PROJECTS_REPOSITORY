@@ -61,7 +61,12 @@ This system can be used for:
 - C++ file handling practice
 
 ## 📷 Screenshots
+
 ![Screenshot 2025-07-21 232719](https://github.com/user-attachments/assets/ed5f6c16-bbd5-42e3-8d2c-ea3f38c57c8e)
+
+
+https://github.com/user-attachments/assets/67e1ab55-4aad-40ea-8406-ac20dea51752
+
 
 
 ## 👨‍💻 Author
